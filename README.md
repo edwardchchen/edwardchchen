@@ -16,7 +16,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-[![Linkedin Badge](https://img.shields.io/badge/EdwardChen-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edwardchen29/)  
+[![Linkedin Badge](https://img.shields.io/badge/EdwardChen-connect%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edwardchen29/)  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=edwardchchen.edwardchchen)
 
 <!--
