@@ -19,6 +19,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/EdwardChen-connect%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edwardchen29/)  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=edwardchchen.edwardchchen)
 
+### ⚡ Stats
+![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardchchen&show_icons=true&title_color=0072b1&icon_color=0072b1&text_color=ffffff&bg_color=151515&hide=issues,prs)
 <!--
 **edwardchchen/edwardchchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
