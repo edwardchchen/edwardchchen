@@ -1,8 +1,8 @@
 ### Hi there, I'm Edward Chen 👋
 
 - 🔭 I’m currently working on my portfolio website
-- 🌱 I’m currently learning computer networking / applied machine learning
-- ⚡ Interests: Tech, Cloud Computing, Cars, Photography
+- 🌱 Learning computer networking / applied machine learning
+- ⚡ Interests: Tech, Cloud Computing, Cars, Motorsport, Photography
 
 
 :star: Here are some projects that I have worked on:
