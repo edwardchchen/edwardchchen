@@ -1,7 +1,7 @@
 ### Hi there, I'm Edward Chen 👋
 
 - 🔭 I’m currently working on my portfolio website
-- 🌱 Learning computer networking / applied machine learning
+- 🌱 Learning computer networking 
 - ⚡ Interests: Tech, Cloud Computing, Cars, Motorsport, Photography
 
 
@@ -15,7 +15,7 @@
 
 
 ### 🤝🏻 &nbsp;Connect with Me
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 [![Linkedin Badge](https://img.shields.io/badge/EdwardChen-connect%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edwardchen29/)  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=edwardchchen.edwardchchen)
 
@@ -42,3 +42,4 @@ Here are some ideas to get you started:
 </a>
 
 -->
+
