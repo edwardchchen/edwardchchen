@@ -15,7 +15,6 @@
 
 
 ### 🤝🏻 &nbsp;Connect with Me
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="edwardchen29" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/edwardchen29?trk=profile-badge">Edward Chen</a></div>
 
 [![Linkedin Badge](https://img.shields.io/badge/EdwardChen-connect%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edwardchen29/)  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=edwardchchen.edwardchchen)
