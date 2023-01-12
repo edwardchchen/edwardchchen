@@ -1,7 +1,6 @@
 ### Hi there, I'm Edward Chen 👋
 
-- 🔭 I’m currently working on my portfolio website
-- 🌱 Learning computer networking 
+- 🔭 [Portfolio Website](https://www.edwardchchen.com)
 - ⚡ Interests: Tech, Cloud Computing, Cars, Motorsport, Photography
 
 
@@ -25,8 +24,8 @@
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/chih-yang-edward-chen)
 
 
-### ⚡ Stats
-![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardchchen&show_icons=true&title_color=0072b1&icon_color=0072b1&text_color=ffffff&bg_color=151515&hide=issues,prs)
+<!-- ### ⚡ Stats
+![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwardchchen&show_icons=true&title_color=0072b1&icon_color=0072b1&text_color=ffffff&bg_color=151515&hide=issues,prs) -->
 <!--
 **edwardchchen/edwardchchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
