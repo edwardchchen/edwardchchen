@@ -5,7 +5,7 @@
 
 
 :star: Here are some projects that I have worked on:
-- [DynamoDB Stream Integration with Lambda and SNS CDK Demo] (https://github.com/aws-samples/aws-cdk-examples/tree/main/typescript/ddb-stream-lambda-sns)
+- [DynamoDB Stream Integration with Lambda and SNS CDK Demo](https://github.com/aws-samples/aws-cdk-examples/tree/main/typescript/ddb-stream-lambda-sns)
 - [Student Connect App](https://github.com/UBC-CIC/Student-Connect-App)
 - [Amazon Location Service Demo](https://github.com/UBC-CIC/Amazon-Location-Service-Demo)
 - [Vaccine Distribution Project](https://github.com/UBC-CIC/VaccineDistribution)
